@@ -92,7 +92,7 @@ namespace calculatedate {
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(172, 26);
 			this->textBox1->TabIndex = 1;
-			this->textBox1->Text = L"03/07/2021";
+			this->textBox1->Text = L"01/07/2021";
 			// 
 			// button1
 			// 
